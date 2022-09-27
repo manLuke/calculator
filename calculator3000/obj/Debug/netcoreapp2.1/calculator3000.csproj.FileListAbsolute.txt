@@ -1,0 +1,11 @@
+C:\Users\kacha.to.2022\source\repos\calculator3000\calculator3000\bin\Debug\netcoreapp2.1\calculator3000.deps.json
+C:\Users\kacha.to.2022\source\repos\calculator3000\calculator3000\bin\Debug\netcoreapp2.1\calculator3000.runtimeconfig.json
+C:\Users\kacha.to.2022\source\repos\calculator3000\calculator3000\bin\Debug\netcoreapp2.1\calculator3000.runtimeconfig.dev.json
+C:\Users\kacha.to.2022\source\repos\calculator3000\calculator3000\bin\Debug\netcoreapp2.1\calculator3000.dll
+C:\Users\kacha.to.2022\source\repos\calculator3000\calculator3000\bin\Debug\netcoreapp2.1\calculator3000.pdb
+C:\Users\kacha.to.2022\source\repos\calculator3000\calculator3000\obj\Debug\netcoreapp2.1\calculator3000.csprojAssemblyReference.cache
+C:\Users\kacha.to.2022\source\repos\calculator3000\calculator3000\obj\Debug\netcoreapp2.1\calculator3000.csproj.CoreCompileInputs.cache
+C:\Users\kacha.to.2022\source\repos\calculator3000\calculator3000\obj\Debug\netcoreapp2.1\calculator3000.AssemblyInfoInputs.cache
+C:\Users\kacha.to.2022\source\repos\calculator3000\calculator3000\obj\Debug\netcoreapp2.1\calculator3000.AssemblyInfo.cs
+C:\Users\kacha.to.2022\source\repos\calculator3000\calculator3000\obj\Debug\netcoreapp2.1\calculator3000.dll
+C:\Users\kacha.to.2022\source\repos\calculator3000\calculator3000\obj\Debug\netcoreapp2.1\calculator3000.pdb
